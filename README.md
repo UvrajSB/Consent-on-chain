@@ -41,7 +41,7 @@ Before running this project, ensure you have the following:
 
 #### a) Clone the Repository
 ```sh
-git clone [<repository-url>](https://github.com/UvrajSB/Consent-on-chain.git)
+git clone https://github.com/UvrajSB/Consent-on-chain.git
 cd Consent-on-chain
 ```
 
